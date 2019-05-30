@@ -33,4 +33,3 @@ function createAlphabet($letterToStopAt)
 
 echo createAlphabet('H');
 
-?>
